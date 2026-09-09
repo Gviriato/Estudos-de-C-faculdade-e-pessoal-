@@ -1,0 +1,203 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="2762ccfa-30eb-4bf5-9364-74224206cf92" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="KCO3diqa" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4,
+  &quot;fromUser&quot;: false
+}</component>
+  <component name="ProjectId" id="3I6nMyP3rqaPI81IvcbLtozUf3b" />
+  <component name="ProjectStatusUIService">{
+  &quot;uiKindId&quot;: &quot;Widget&quot;
+}</component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Lista01-10.c.executor": "Run",
+    "C/C++ File.Lista01-11.c.executor": "Run",
+    "C/C++ File.Lista01-12.c.executor": "Run",
+    "C/C++ File.Lista01-13.c.executor": "Run",
+    "C/C++ File.Lista01-14.c.executor": "Run",
+    "C/C++ File.Lista01-15.c.executor": "Run",
+    "C/C++ File.Lista01-16.c.executor": "Run",
+    "C/C++ File.Lista01-17.c.executor": "Run",
+    "C/C++ File.Lista01-18.c.executor": "Run",
+    "C/C++ File.Lista01-2.c.executor": "Run",
+    "C/C++ File.Lista01-3.c.executor": "Run",
+    "C/C++ File.Lista01-4.c.executor": "Run",
+    "C/C++ File.Lista01-5.c.executor": "Run",
+    "C/C++ File.Lista01-6.c.executor": "Run",
+    "C/C++ File.Lista01-7.c.executor": "Run",
+    "C/C++ File.Lista01-8.c.executor": "Run",
+    "C/C++ File.Lista01-9.c.executor": "Run",
+    "C/C++ File.Lista01-99.c.executor": "Run",
+    "C/C++ File.main.c.executor": "Run",
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/Gviriato/Documents/Prática de lógica/Malvezzi/Main/Aula-01-Malvezzi",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Gviriato\Documents\Prática de lógica\Malvezzi\Main\Aula-01-Malvezzi" />
+      <recent name="C:\Users\Gviriato\Documents\Prática de lógica (Malvezzi)\Main\Aula-01-Malvezzi" />
+    </key>
+  </component>
+  <component name="RunManager" selected="C/C++ File.Lista01-99.c">
+    <configuration name="Lista01-12.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aula-01-Malvezzi" TARGET_NAME="Lista01-12.c" CONFIG_NAME="Lista01-12.c">
+      <option name="sourceFile" value="Lista01-12.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lista01-13.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aula-01-Malvezzi" TARGET_NAME="Lista01-13.c" CONFIG_NAME="Lista01-13.c">
+      <option name="sourceFile" value="Lista01-13.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lista01-17.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aula-01-Malvezzi" TARGET_NAME="Lista01-17.c" CONFIG_NAME="Lista01-17.c">
+      <option name="sourceFile" value="Lista01-17.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lista01-18.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aula-01-Malvezzi" TARGET_NAME="Lista01-18.c" CONFIG_NAME="Lista01-18.c">
+      <option name="sourceFile" value="Lista01-18.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lista01-2.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aula-01-Malvezzi" TARGET_NAME="Lista01-2.c" CONFIG_NAME="Lista01-2.c">
+      <option name="sourceFile" value="Lista01-2.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Lista01-99.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" temporary="true" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aula-01-Malvezzi" TARGET_NAME="Lista01-99.c" CONFIG_NAME="Lista01-99.c">
+      <option name="sourceFile" value="Lista01-99.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="buy-item.c" type="CppFileRunConfiguration" factoryName="CppFileRunConfiguration" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="Aula-01-Malvezzi" TARGET_NAME="buy-item.c" CONFIG_NAME="buy-item.c">
+      <option name="sourceFile" value="buy-item.c" />
+      <method v="2">
+        <option name="com.jetbrains.cidr.cpp.runfile.CppFileBuildBeforeRunTaskProvider$BasicBuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="C/C++ File.Lista01-99.c" />
+        <item itemvalue="C/C++ File.Lista01-13.c" />
+        <item itemvalue="C/C++ File.Lista01-12.c" />
+        <item itemvalue="C/C++ File.Lista01-17.c" />
+        <item itemvalue="C/C++ File.Lista01-18.c" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SelectedDebugProfileService"><![CDATA[{
+  "profileIdByStamp": [
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.Lista01-99.c"
+      },
+      "second": "a4a51d33-6498-4dd1-87df-b1224b1066a1"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.Lista01-12.c"
+      },
+      "second": "a4a51d33-6498-4dd1-87df-b1224b1066a1"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.Lista01-13.c"
+      },
+      "second": "a4a51d33-6498-4dd1-87df-b1224b1066a1"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.Lista01-17.c"
+      },
+      "second": "a4a51d33-6498-4dd1-87df-b1224b1066a1"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.Lista01-18.c"
+      },
+      "second": "a4a51d33-6498-4dd1-87df-b1224b1066a1"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.Lista01-2.c"
+      },
+      "second": "a4a51d33-6498-4dd1-87df-b1224b1066a1"
+    },
+    {
+      "first": {
+        "##RUN_CONFIGURATION##": "C/C++ File.buy-item.c"
+      },
+      "second": "a4a51d33-6498-4dd1-87df-b1224b1066a1"
+    }
+  ],
+  "modificationCount": 38
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2762ccfa-30eb-4bf5-9364-74224206cf92" name="Changes" comment="" />
+      <created>1787093841908</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787093841908</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
